@@ -1,0 +1,6 @@
+---------------------------------
+Product Name:Place:Price:QUANTITY
+8086 Microprocessor:RAM:100:1
+Total Price = 100 LE
+Date:13/1/2022,     Hour:11
+---------------------------------

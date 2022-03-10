@@ -1,0 +1,7 @@
+---------------------------------
+Product Name:Place:Price:QUANTITY
+Transformer:RAM:50:4
+8086 Microprocessor:RAM:100:1
+Total Price = 300 LE
+Date:28/1/2022,     Hour:19
+---------------------------------
